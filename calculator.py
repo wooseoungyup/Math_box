@@ -7,3 +7,6 @@ def subtract(a,b):
 
 def divied_new(a, b):
     return 0
+
+def say_he(a, b):
+    print("hello")
