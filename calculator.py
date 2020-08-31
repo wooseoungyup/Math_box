@@ -13,6 +13,3 @@ def divide(a,b):
 
 def zero(a, b):
     return 0
-
-def square(a):
-    return a*a
